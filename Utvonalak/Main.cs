@@ -16,7 +16,7 @@ namespace Utvonalak
 {
     public partial class Main : Form
     {
-        static public string ConnectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=turautvonalak";
+        static public string ConnectionString = @"Data source=(localdb)\MSSQLLocalDB;Initial Catalog = C:\USERS\FRANKIE\SOURCE\REPOS\UTVONALAK\UTVONALAK\TURAUTVONALAK.MDF";
 
         public Main()
         {
